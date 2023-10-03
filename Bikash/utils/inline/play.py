@@ -13,26 +13,6 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     duration_sec = time_to_seconds(dur)
     percentage = (played_sec / duration_sec) * 100
     bikash = math.floor(percentage)
-    if 0 < bikash <= 10:
-         bar = "◉—————————"
-    elif 10 < bikash < 20:
-        bar = "—◉————————"
-    elif 20 <= bikash < 30:
-        bar = "——◉———————"
-    elif 30 <= bikash < 40:
-        bar = "———◉——————"
-    elif 40 <= bikash < 50:
-        bar = "————◉—————"
-    elif 50 <= bikash < 60:
-        bar = "—————◉————"
-    elif 60 <= bikash < 70:
-        bar = "——————◉———"
-    elif 70 <= bikash < 80:
-        bar = "———————◉——"
-    elif 80 <= bikash < 95:
-        bar = "————————◉—"
-    else:
-        bar = "—————————◉"
 
     buttons = [
         [
@@ -58,26 +38,6 @@ def telegram_markup_timer(_, chat_id, played, dur):
     duration_sec = time_to_seconds(dur)
     percentage = (played_sec / duration_sec) * 100
     bikash = math.floor(percentage)
-    if 0 < bikash <= 10:
-         bar = "◉—————————"
-    elif 10 < bikash < 20:
-        bar = "—◉————————"
-    elif 20 <= bikash < 30:
-        bar = "——◉———————"
-    elif 30 <= bikash < 40:
-        bar = "———◉——————"
-    elif 40 <= bikash < 50:
-        bar = "————◉—————"
-    elif 50 <= bikash < 60:
-        bar = "—————◉————"
-    elif 60 <= bikash < 70:
-        bar = "——————◉———"
-    elif 70 <= bikash < 80:
-        bar = "———————◉——"
-    elif 80 <= bikash < 95:
-        bar = "————————◉—"
-    else:
-        bar = "—————————◉"
 
     buttons = [
         [
