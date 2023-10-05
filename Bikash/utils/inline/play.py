@@ -23,7 +23,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
@@ -48,7 +48,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
          [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
@@ -62,7 +62,7 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
          [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
@@ -76,7 +76,7 @@ def telegram_markup(_, chat_id):
     buttons = [
          [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
@@ -216,7 +216,7 @@ def queue_markup(_, videoid, chat_id):
     buttons = [
          [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
@@ -230,7 +230,7 @@ def telegram_markup(_, chat_id):
     buttons = [
          [           
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/IND_K4K4SHI"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/itz_me_deep"
             ),
             InlineKeyboardButton(
                 text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/+An4yRwJGNq5mZWFl"
