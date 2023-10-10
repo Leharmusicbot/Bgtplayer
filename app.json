@@ -1,5 +1,5 @@
 {
-    "name": "⚡𝙺𝙸𝚃𝚃𝚄⚡𝙼𝚄𝚂𝙸𝙲",
+    "name": "❤️𝐒𝗂𝗒α❤️𝐌υ𝗌𝗂𝖼",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/3d08fb7b9c3d352f8ff60.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "⚡𝙺𝙸𝚃𝚃𝚄⚡𝙼𝚄𝚂𝙸𝙲",
+        "value": "❤️𝐒𝗂𝗒α❤️𝐌υ𝗌𝗂𝖼",
         "required": true
       },
       "OWNER_ID": {
